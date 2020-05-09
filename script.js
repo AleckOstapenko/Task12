@@ -18,5 +18,4 @@ class Options{
 }
 
 let newDiv = new Options('150px',300,'yellow',20,'center');
-console.log(newDiv);
 newDiv.addDiv(new Date());
